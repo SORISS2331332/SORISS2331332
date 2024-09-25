@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a Resto web site development (PHP, HTML, SCSS)
 - 🌱 I’m currently learning C# and MS SQL,
 - 👯 I’m looking to collaborate on web and app development projects 😁
-- 📫 How to reach me: on LinkedIn via https://www.linkedin.com/in/issouf-sorgho 💙
+- 📫 How to reach me: on LinkedIn :  <a href="https://www.linkedin.com/in/issouf-sorgho " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="20" height="20"/> </a>💙
 - ⚡ Fun fact: I am funny 😆
 
 
