@@ -1,6 +1,4 @@
 
-
-![Image (1)](https://github.com/user-attachments/assets/ff253eb6-8b0a-405b-834d-6951499bb0a0)
 <h1 align="center">Hi 👋 i am Issouf SORGHO </h1>
 <h3 align="center">A Mathematics, Philosophy, Entrepreneurship and Computer Science Enthusiast</h3>
 
