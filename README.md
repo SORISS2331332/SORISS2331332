@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning C# and MS SQL,
 - 👯 I’m looking to collaborate on web and app development projects 😁
 - 📫 How to reach me: on LinkedIn via https://www.linkedin.com/in/issouf-sorgho 💙
-- 😄 Pronouns: He
 - ⚡ Fun fact: I am funny 😆
 
 
