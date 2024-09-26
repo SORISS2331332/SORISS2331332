@@ -22,11 +22,11 @@
   
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soriss2331332&show_icons=true&locale=en&layout=compact" alt="soriss2331332" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SORISS2331332&show_icons=true&locale=en&layout=compact" alt="SORISS2331332" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soriss2331332&show_icons=true&locale=en" alt="soriss2331332" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SORISS2331332&show_icons=true&locale=en" alt="SORISS2331332" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soriss2331332&" alt="soriss2331332" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SORISS2331332&" alt="SORISS2331332" /></p>
 
 
 
